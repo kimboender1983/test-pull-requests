@@ -1,0 +1,1 @@
+console.log('Dit is een nieuw bestand en zou dus na commit en push naar origin/dev een approved pull request nodig hebben om in de main branch (vaak ook master genoemd) te mogen komen.');
